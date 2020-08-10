@@ -1,0 +1,8 @@
+application:
+  name: dev @artifactId@
+  version: dev @version@
+developer:
+  name: dev-name
+  website: dev-website
+  qq: dev-qq
+  phone-number: dev-phoneNumber
